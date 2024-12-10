@@ -3,7 +3,7 @@
 - 👨‍💻 Backend Developer Node.js @[Compass OUL](https://compass.uol/pt/home/)
 - 📫 contact me at email: walmirsantosrosa@gmail.com
 - 🎓 Graduating in Information Systems [Urutaí - Instituto Federal Goiano](https://www.ifgoiano.edu.br/home/index.php/urutai.html)
-- ☁️ *1x* [AWS Certifield](https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile)
+- ☁️ *1x* [AWS Certifield](https://www.credly.com/badges/b2d9063f-2ba8-4f92-b163-f8605e00b611/public_url)
 
 - 💼 Experience
   -  Estagiário de Node.js com AWS Cloud Context [Compass OUL](https://compass.uol/pt/home/) Julho 2024 - Dezembro de 2024 \
