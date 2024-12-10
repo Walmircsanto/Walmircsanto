@@ -1,13 +1,48 @@
-### Ola , sou o Walmir Cardoso 😄
+### Hello, I'm Walmir Cardoso 😄
 
-- 💻 Backend Developer node js
-- 📫 contate-me no email: walmirsantosrosa@gmail.com
-- 😄 Pronouns: ele/dele
+- 👨‍💻 Backend Developer Node.js @[Compass OUL](https://compass.uol/pt/home/)
+- 📫 contact me at email: walmirsantosrosa@gmail.com
+- 🎓 Graduating in Information Systems [Urutaí - Instituto Federal Goiano](https://www.ifgoiano.edu.br/home/index.php/urutai.html)
+- ☁️ *1x* [AWS Certifield](https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile)
 
-###  💼 Experiência
-- Develop nodeJs at compass UOL
+- 💼 Experience
+  -  Estagiário de Node.js com AWS Cloud Context [Compass OUL](https://compass.uol/pt/home/) Julho 2024 - Dezembro de 2024 \
+      ▪ **Stacks:** Node, Express, PostGress, Docker, TypeORM, Amazon web services, Docker
+-----   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="50px">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="50px">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50px">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50px">
+&nbsp;&nbsp;&nbsp; 
 
 
-&nbsp;&nbsp;&nbsp;
+In this repository you will find projects focused on the following technologies:
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. I am currently engaged with deep learning projects.</p>&nbsp;
+-Java
+
+-Spring Boot (Web, Data JPA)
+
+-TypeScript
+
+-TypeORM (JWT)
+
+-Microsservicos
+
+-Relational and Non-Relational Databases (PostGress, MySQL, MongoDB)
+
+-Redis
+
+-Docker
+
+---
+
+### Social media
+<div> 
+<a href="https://www.linkedin.com/in/walmir-cardoso-dos-santos-93a1a8236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href = "https://www.instagram.com/walmir_sntos/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+---
+
+<p align="center">
+To whom much has been given, much will be required; to whom much has been entrusted, much more will be asked<br>
+ Lucas 12:47-48
+</p>
