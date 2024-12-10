@@ -1,16 +1,13 @@
-## Hi there 👋
+### Ola , sou o Walmir Cardoso 😄
 
-<!--
-**Walmircsanto/Walmircsanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Backend Developer node js
+- 📫 contate-me no email: walmirsantosrosa@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+###  💼 Experiência
+- Develop nodeJs at compass UOL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+&nbsp;&nbsp;&nbsp;
+
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. I am currently engaged with deep learning projects.</p>&nbsp;
