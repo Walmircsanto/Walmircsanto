@@ -6,7 +6,7 @@
 - ☁️ *1x* [AWS Certifield](https://www.credly.com/badges/b2d9063f-2ba8-4f92-b163-f8605e00b611/public_url)
 
 - 💼 Experience
-  -  Estagiário de Node.js com AWS Cloud Context [Compass OUL](https://compass.uol/pt/home/) Julho 2024 - Dezembro de 2024 \
+  -  Estagiário de Node.js com AWS Cloud Context [Compass UOL](https://compass.uol/pt/home/) Julho 2024 - Dezembro de 2024 \
       ▪ **Stacks:** Node, Express, PostGress, Docker, TypeORM, Amazon web services, Docker
 -----   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="50px">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="50px">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50px">
