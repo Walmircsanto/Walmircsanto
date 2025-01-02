@@ -1,6 +1,6 @@
 ### Hello, I'm Walmir Cardoso 😄
 
-- 👨‍💻 Backend Developer Node.js @[Compass OUL](https://compass.uol/pt/home/)
+- 👨‍💻 Backend Developer Node.js @[Compass UOL](https://compass.uol/pt/home/)
 - 📫 contact me at email: walmirsantosrosa@gmail.com
 - 🎓 Graduating in Information Systems [Urutaí - Instituto Federal Goiano](https://www.ifgoiano.edu.br/home/index.php/urutai.html)
 - ☁️ *1x* [AWS Certifield](https://www.credly.com/badges/b2d9063f-2ba8-4f92-b163-f8605e00b611/public_url)
@@ -10,7 +10,7 @@
       ▪ **Stacks:** Node, Express, PostGress, Docker, TypeORM, Amazon web services, Docker
 -----   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="50px">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="50px">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50px">
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50px">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50px">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="50px">
 &nbsp;&nbsp;&nbsp; 
 
 
