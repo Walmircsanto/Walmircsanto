@@ -10,7 +10,7 @@
       ▪ **Stacks:** Node, Express, PostGress, Docker, TypeORM, Amazon web services, Docker
 -----   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="50px">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="50px">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50px">
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50px">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="50px">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50px">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="50px"> <img src="https://firebase.google.com/static/images/products/icons/build_functions.svg?hl=pt-br" width="50px">
 &nbsp;&nbsp;&nbsp; 
 
 
@@ -31,6 +31,9 @@ In this repository you will find projects focused on the following technologies:
 -Redis
 
 -Docker
+
+-Cloud functions
+
 
 ---
 
