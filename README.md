@@ -47,5 +47,5 @@ In this repository you will find projects focused on the following technologies:
 
 <p align="center">
 To whom much has been given, much will be required; to whom much has been entrusted, much more will be asked<br>
- Lucas 12:47-48
+ Lucas 12:42-48
 </p>
