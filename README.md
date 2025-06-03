@@ -1,4 +1,4 @@
-### Hello, I'm Walmir Cardoso 😄
+### Hello, I'm Walmir Cardoso 
 
 - 👨‍💻 Backend Developer Node.js @[Compass UOL](https://compass.uol/pt/home/)
 - 📫 contact me at email: walmirsantosrosa@gmail.com
