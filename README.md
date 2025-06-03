@@ -6,6 +6,8 @@
 - ☁️ *1x* [AWS Certifield](https://www.credly.com/badges/b2d9063f-2ba8-4f92-b163-f8605e00b611/public_url)
 
 - 💼 Experience
+  - Back-end developer Node.js [Compass UOL](https://compass.uol/pt/home/) maio 2025 \
+      ▪ **Stacks:** Node, NestJs, PostGress, Docker, TypeORM, Amazon web services, Docker
   -  Estagiário de Node.js com AWS Cloud Context [Compass UOL](https://compass.uol/pt/home/) Julho 2024 - Dezembro de 2024 \
       ▪ **Stacks:** Node, Express, PostGress, Docker, TypeORM, Amazon web services, Docker
 -----   
